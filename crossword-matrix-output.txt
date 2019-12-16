@@ -1,0 +1,55 @@
+TEST 1: crossword(['hippopotamus', 'horse', 'loon', 'snake', 'cat', 'rattlesnake', 'dinosaur'], board)
+
+OUTPUT:
+
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{                                        } 
+{                                        } 
+{                                        } 
+{                                        } 
+{                              r         } 
+{                    d i n o s a u r     } 
+{                              t         } 
+{                              t         } 
+{                        s     l         } 
+{                l       n     e         } 
+{        h i p p o p o t a m u s         } 
+{        o       o       k     n         } 
+{        r       n       e     a         } 
+{        s                     k         } 
+{        e                     e         } 
+{                                        } 
+{                                        } 
+{                                        } 
+{                                        } 
+{                                        } 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+
+
+TEST 2: crossword(['deer', 'rainforest', 'google', 'cool', 'animal', 'life', 'cat'], board)
+
+OUTPUT:
+
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{                                        } 
+{                                        } 
+{                                        } 
+{              l   r                     } 
+{          a n i m a l                   } 
+{              f   i     c a t           } 
+{              e   n     o               } 
+{                  f     o               } 
+{                g o o g l e             } 
+{                  r                     } 
+{                d e e r                 } 
+{                  s                     } 
+{                  t                     } 
+{                                        } 
+{                                        } 
+{                                        } 
+{                                        } 
+{                                        } 
+{                                        } 
+{                                        } 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
